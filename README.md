@@ -88,7 +88,3 @@ You can refer to the individual Jupyter Notebooks for details on data analysis, 
 
 Feel free to explore and use the provided resources for your object recognition and classification tasks.
 
-## License
-
-This project is open-source and is provided under the [license](LICENSE) file.
-
